@@ -1,16 +1,16 @@
-# online-banking
+#Exprex Trust Bank
 This is a online banking system for local businesses. 
 easybank contains a user interface as well as a user authentication system <br><br>
 
-1) Install easybank: <br><br>
+1) Install Exprexbank: <br><br>
 
  i) Download the online-banking project and unzip <br>
  
- ii) Rename the online-project and give name easybank <br> 
+ ii) Rename the online-project and give name Exprexbank <br> 
  
- iii) Copy the folder easybank in to /var/www/ e.x /var/www/easybank <br>
+ iii) Copy the folder Exprexbank in to /var/www/ e.x /var/www/Exprexbank <br>
 
- iv) Import the easybank.sql file from sql folder in to your database <br><br><br>
+ iv) Import the Exprexbank.sql file from sql folder in to your database <br><br><br>
 
 
 2) Use stripe withdrawals: <br><br>
@@ -133,21 +133,3 @@ It has information about user moves.
 You can see the representation of your trading live charting.
 It can export the data in pdf format.
 It transfers money to and from bank accounts (stripe) via credit cards from any bank. <br><br><br>
-
-
-
-
-![screenshots/000](screenshots/000.png) <br><br>
-![screenshots/001](screenshots/001.png) <br><br>
-![screenshots/002](screenshots/002.png) <br><br>
-![screenshots/003](screenshots/003.png) <br><br>
-![screenshots/004](screenshots/004.png) <br><br>
-![screenshots/005](screenshots/005.png) <br><br>
-![screenshots/006](screenshots/006.png) <br><br>
-![screenshots/007](screenshots/007.png) <br><br>
-![screenshots/008](screenshots/008.png) <br><br>
-![screenshots/009](screenshots/009.png) <br><br>
-![screenshots/0010](screenshots/0010.png) <br><br>
-![screenshots/0011](screenshots/0011.png) <br><br>
-![screenshots/0012](screenshots/0012.png) <br><br>
-![screenshots/0013](screenshots/0013.png) <br><br>
