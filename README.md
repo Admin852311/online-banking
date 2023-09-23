@@ -1,4 +1,4 @@
-#Exprex Trust Bank
+     #Exprex Trust Bank
 This is a online banking system for local businesses. 
 easybank contains a user interface as well as a user authentication system <br><br>
 
